@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.6.11
+
+- Also apply the accessoryType fix on iOS 12
+
+## 1.6.10
+
+- Fix cut view when UITableViewCell's accessoryType is set to disclosureIndicator in a storyboard.
+
+## 1.6.9
+
+- iOS 13 compatibility fixes.
+
+## 1.6.8
+
+- Fix duplicaged buttons on orientation change.
+
+## 1.6.7
+
+- Fix quality loss in snapshot image.
+- Got rid from Block implicitly warning.
+
 ## 1.6.6
 
 - Improve notch code to better handle edge cases like orientation changes while swiping.
